@@ -5,3 +5,8 @@
 header {
   font-size: 32px;
 }
+
+#main-content {
+  background: black;
+  color: white;
+}
