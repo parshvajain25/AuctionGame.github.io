@@ -1,0 +1,1376 @@
+{
+    "wicketkeepers": {
+        "KL Rahul": {
+            "2019": {
+                "matches": "14",
+                "runs": "593",
+                "average": "53.90",
+                "sr": "135.38",
+                "catches": "7",
+                "stumpings": "0"
+            },
+            "2018": {
+                "matches": "14",
+                "runs": "659",
+                "average": "54.91",
+                "sr": "158.41",
+                "catches": "10",
+                "stumpings": "1"
+            }
+        },
+        "Quinton de Kock": {
+            "2019": {
+                "matches": "16",
+                "runs": "529",
+                "average": "35.26",
+                "sr": "132.91",
+                "catches": "17",
+                "stumpings": "2"
+            },
+            "2018": {
+                "matches": "8",
+                "runs": "201",
+                "average": "25.12",
+                "sr": "124.07",
+                "catches": "7",
+                "stumpings": "3"
+            }
+        },
+        "Rishabh Pant": {
+            "2019": {
+                "matches": "16",
+                "runs": "488",
+                "average": "37.53",
+                "sr": "162.66",
+                "catches": "18",
+                "stumpings": "6"
+            },
+            "2018": {
+                "matches": "14",
+                "runs": "684",
+                "average": "52.61",
+                "sr": "173.60",
+                "catches": "4",
+                "stumpings": "2"
+            },
+            "2017": {
+                "matches": "14",
+                "runs": "366",
+                "average": "26.14",
+                "sr": "165.61",
+                "catches": "8",
+                "stumpings": "3"
+            }
+        },
+        "MS Dhoni": {
+            "2019": {
+                "matches": "15",
+                "runs": "416",
+                "average": "83.20",
+                "sr": "134.62",
+                "catches": "11",
+                "stumpings": "5"
+            },
+            "2018": {
+                "matches": "16",
+                "runs": "455",
+                "average": "75.83",
+                "sr": "150.66",
+                "catches": "11",
+                "stumpings": "3"
+            },
+            "2017": {
+                "matches": "16",
+                "runs": "290",
+                "average": "26.36",
+                "sr": "116.00",
+                "catches": "10",
+                "stumpings": "3"
+            }
+        },
+        "Parthiv Patel": {
+            "2019": {
+                "matches": "14",
+                "runs": "373",
+                "average": "26.64",
+                "sr": "139.17",
+                "catches": "6",
+                "stumpings": "2"
+            },
+            "2018": {
+                "matches": "6",
+                "runs": "153",
+                "average": "30.60",
+                "sr": "140.36",
+                "catches": "3",
+                "stumpings": "0"
+            },
+            "2017": {
+                "matches": "16",
+                "runs": "395",
+                "average": "24.68",
+                "sr": "134.81",
+                "catches": "6",
+                "stumpings": "2"
+            }
+        },
+        "Jos Buttler": {
+            "2019": {
+                "matches": "8",
+                "runs": "311",
+                "average": "38.87",
+                "sr": "151.70",
+                "catches": "8",
+                "stumpings": "0"
+            },
+            "2018": {
+                "matches": "13",
+                "runs": "548",
+                "average": "54.80",
+                "sr": "155.24",
+                "catches": "9",
+                "stumpings": "1"
+            },
+            "2017": {
+                "matches": "10",
+                "runs": "272",
+                "average": "27.20",
+                "sr": "153.67",
+                "catches": "1",
+                "stumpings": "0"
+            }
+        },
+        "Dinesh Karthik": {
+            "2019": {
+                "matches": "14",
+                "runs": "253",
+                "average": "31.62",
+                "sr": "146.24",
+                "catches": "7",
+                "stumpings": "0"
+            },
+            "2018": {
+                "matches": "16",
+                "runs": "498",
+                "average": "49.80",
+                "sr": "147.77",
+                "catches": "14",
+                "stumpings": "4"
+            },
+            "2017": {
+                "matches": "14",
+                "runs": "361",
+                "average": "36.10",
+                "sr": "139.38",
+                "catches": "8",
+                "stumpings": "0"
+            }
+        },
+        "Wridhiman Saha": {
+            "2019": {
+                "matches": "5",
+                "runs": "86",
+                "average": "17.20",
+                "sr": "162.26",
+                "catches": "4",
+                "stumpings": "1"
+            },
+            "2018": {
+                "matches": "11",
+                "runs": "122",
+                "average": "15.25",
+                "sr": "119.60",
+                "catches": "5",
+                "stumpings": "1"
+            },
+            "2017": {
+                "matches": "14",
+                "runs": "234",
+                "average": "23.40",
+                "sr": "125.13",
+                "catches": "10",
+                "stumpings": "2"
+            }
+        }
+    },
+    "bowlers": {
+        "Imran Tahir": {
+            "2019": {
+                "matches": "17",
+                "wickets": "26",
+                "average": "4/12",
+                "economy": "6.69",
+                "catches": "6"
+            },
+            "2018": {
+                "matches": "6",
+                "wickets": "6",
+                "average": "2/34",
+                "economy": "9.09",
+                "catches": "2"
+            },
+            "2017": {
+                "matches": "12",
+                "wickets": "18",
+                "average": "3/18",
+                "economy": "7.85",
+                "catches": "2"
+            }
+        },
+        "Kagiso Rabada": {
+            "2019": {
+                "matches": "12",
+                "wickets": "25",
+                "average": "4/21",
+                "economy": "7.82",
+                "catches": "6"
+            },
+            "2017": {
+                "matches": "6",
+                "wickets": "6",
+                "average": "2/20",
+                "economy": "8.81",
+                "catches": "0"
+            }
+        },
+        "Deepak Chahar": {
+            "2019": {
+                "matches": "17",
+                "wickets": "22",
+                "average": "3/20",
+                "economy": "7.47",
+                "catches": "2"
+            },
+            "2018": {
+                "matches": "12",
+                "wickets": "10",
+                "average": "3/15",
+                "economy": "7.28",
+                "catches": "1"
+            },
+            "2017": {
+                "matches": "3",
+                "wickets": "1",
+                "average": "1/35",
+                "economy": "10.57",
+                "catches": "0"
+            }
+        },
+        "Jasprit Bumrah": {
+            "2019": {
+                "matches": "16",
+                "wickets": "19",
+                "average": "3/20",
+                "economy": "6.63",
+                "catches": "2"
+            },
+            "2018": {
+                "matches": "14",
+                "wickets": "17",
+                "average": "3/15",
+                "economy": "6.88",
+                "catches": "4"
+            },
+            "2017": {
+                "matches": "16",
+                "wickets": "20",
+                "average": "3/7",
+                "economy": "7.39",
+                "catches": "2"
+            }
+        },
+        "Khaleel Ahmed": {
+            "2019": {
+                "matches": "9",
+                "wickets": "19",
+                "average": "3/30",
+                "economy": "8.23",
+                "catches": "0"
+            },
+            "2018": {
+                "matches": "1",
+                "wickets": "0",
+                "average": "0/38",
+                "economy": "12.66",
+                "catches": "0"
+            }
+        },
+        "Mohammad Shami": {
+            "2019": {
+                "matches": "14",
+                "wickets": "19",
+                "average": "3/21",
+                "economy": "8.68",
+                "catches": "5"
+            },
+            "2018": {
+                "matches": "4",
+                "wickets": "3",
+                "average": "1/29",
+                "economy": "10.40",
+                "catches": "2"
+            },
+            "2017": {
+                "matches": "8",
+                "wickets": "5",
+                "average": "2/36",
+                "economy": "9.34",
+                "catches": "0"
+            }
+        },
+        "Yuzvendra Chahal": {
+            "2019": {
+                "matches": "14",
+                "wickets": "18",
+                "average": "4/38",
+                "economy": "7.82",
+                "catches": "3"
+            },
+            "2018": {
+                "matches": "14",
+                "wickets": "12",
+                "average": "2/22",
+                "economy": "7.26",
+                "catches": "2"
+            },
+            "2017": {
+                "matches": "13",
+                "wickets": "14",
+                "average": "3/16",
+                "economy": "7.65",
+                "catches": "3"
+            }
+        },
+        "Rashid Khan": {
+            "2019": {
+                "matches": "15",
+                "wickets": "17",
+                "average": "3/21",
+                "economy": "6.28",
+                "catches": "4"
+            },
+            "2018": {
+                "matches": "17",
+                "wickets": "21",
+                "average": "3/19",
+                "economy": "6.73",
+                "catches": "6"
+            },
+            "2017": {
+                "matches": "14",
+                "wickets": "17",
+                "average": "3/19",
+                "economy": "6.62",
+                "catches": "5"
+            }
+        },
+        "Harbhajan Singh": {
+            "2019": {
+                "matches": "11",
+                "wickets": "16",
+                "average": "3/20",
+                "economy": "7.09",
+                "catches": "4"
+            },
+            "2018": {
+                "matches": "13",
+                "wickets": "7",
+                "average": "2/22",
+                "economy": "8.48",
+                "catches": "4"
+            },
+            "2017": {
+                "matches": "11",
+                "wickets": "8",
+                "average": "3/22",
+                "economy": "6.48",
+                "catches": "2"
+            }
+        },
+        "Lasith Malinga": {
+            "2019": {
+                "matches": "12",
+                "wickets": "16",
+                "average": "4/31",
+                "economy": "9.76",
+                "catches": "1"
+            },
+            "2017": {
+                "matches": "12",
+                "wickets": "11",
+                "average": "2/5",
+                "economy": "8.52",
+                "catches": "1"
+            }
+        },
+        "Ravi Ashwin": {
+            "2019": {
+                "matches": "14",
+                "wickets": "15",
+                "average": "3/23",
+                "economy": "7.27",
+                "catches": "4"
+            },
+            "2018": {
+                "matches": "14",
+                "wickets": "10",
+                "average": "2/18",
+                "economy": "8.09",
+                "catches": "5"
+            }
+        },
+        "Rahul Chahar": {
+            "2019": {
+                "matches": "13",
+                "wickets": "13",
+                "average": "3/19",
+                "economy": "6.55",
+                "catches": "3"
+            },
+            "2017": {
+                "matches": "3",
+                "wickets": "2",
+                "average": "1/26",
+                "economy": "8.28",
+                "catches": "1"
+            }
+        },
+        "Ishant Sharma": {
+            "2019": {
+                "matches": "13",
+                "wickets": "13",
+                "average": "3/38",
+                "economy": "7.58",
+                "catches": "1"
+            },
+            "2017": {
+                "matches": "6",
+                "wickets": "0",
+                "average": "0/12",
+                "economy": "9.94",
+                "catches": "0"
+            }
+        },
+        "Bhuvaneshwar Kumar": {
+            "2019": {
+                "matches": "15",
+                "wickets": "13",
+                "average": "2/24",
+                "economy": "7.81",
+                "catches": "4"
+            },
+            "2018": {
+                "matches": "12",
+                "wickets": "9",
+                "average": "3/26",
+                "economy": "7.66",
+                "catches": "2"
+            },
+            "2017": {
+                "matches": "14",
+                "wickets": "26",
+                "average": "5/19",
+                "economy": "7.05",
+                "catches": "4"
+            }
+        },
+        "Chris Morris": {
+            "2019": {
+                "matches": "9",
+                "wickets": "13",
+                "average": "3/22",
+                "economy": "9.27",
+                "catches": "4"
+            },
+            "2018": {
+                "matches": "4",
+                "wickets": "3",
+                "average": "2/41",
+                "economy": "10.21",
+                "catches": "2"
+            },
+            "2017": {
+                "matches": "9",
+                "wickets": "12",
+                "average": "4/26",
+                "economy": "7.74",
+                "catches": "5"
+            }
+        },
+        "Sandeep Sharma": {
+            "2019": {
+                "matches": "11",
+                "wickets": "12",
+                "average": "3/19",
+                "economy": "8.25",
+                "catches": "1"
+            },
+            "2018": {
+                "matches": "12",
+                "wickets": "12",
+                "average": "2/17",
+                "economy": "7.56",
+                "catches": "2"
+            },
+            "2017": {
+                "matches": "13",
+                "wickets": "17",
+                "average": "4/20",
+                "economy": "8.29",
+                "catches": "3"
+            }
+        },
+        "Amit Mishra": {
+            "2019": {
+                "matches": "11",
+                "wickets": "11",
+                "average": "3/17",
+                "economy": "6.75",
+                "catches": "1"
+            },
+            "2018": {
+                "matches": "10",
+                "wickets": "12",
+                "average": "3/19",
+                "economy": "7.13",
+                "catches": "0"
+            },
+            "2017": {
+                "matches": "14",
+                "wickets": "10",
+                "average": "3/11",
+                "economy": "8.83",
+                "catches": "3"
+            }
+        },
+        "Jofra Archer": {
+            "2019": {
+                "matches": "11",
+                "wickets": "11",
+                "average": "3/15",
+                "economy": "6.76",
+                "catches": "3"
+            },
+            "2018": {
+                "matches": "10",
+                "wickets": "15",
+                "average": "3/22",
+                "economy": "8.36",
+                "catches": "1"
+            }
+        },
+        "Navdeep Saini": {
+            "2019": {
+                "matches": "13",
+                "wickets": "11",
+                "average": "2/24",
+                "economy": "8.27",
+                "catches": "3"
+            }
+        },
+        "Piyush Chawla": {
+            "2019": {
+                "matches": "13",
+                "wickets": "10",
+                "average": "3/20",
+                "economy": "8.96",
+                "catches": "5"
+            },
+            "2018": {
+                "matches": "15",
+                "wickets": "14",
+                "average": "3/48",
+                "economy": "8.40",
+                "catches": "4"
+            },
+            "2017": {
+                "matches": "6",
+                "wickets": "6",
+                "average": "2/34",
+                "economy": "8.95",
+                "catches": "1"
+            }
+        }
+    },
+    "batsmen": {
+        "David Warner": {
+            "2019": {
+                "matches": "12",
+                "runs": "692",
+                "average": "69.20",
+                "sr": "143.86",
+                "catches": "2"
+            },
+            "2017": {
+                "matches": "14",
+                "runs": "641",
+                "average": "58.27",
+                "sr": "141.81",
+                "catches": "10"
+            }
+        },
+        "Shikhar Dhawan": {
+            "2019": {
+                "matches": "16",
+                "runs": "521",
+                "average": "34.73",
+                "sr": "135.67",
+                "catches": "5"
+            },
+            "2018": {
+                "matches": "16",
+                "runs": "497",
+                "average": "38.23",
+                "sr": "136.91",
+                "catches": "12"
+            },
+            "2017": {
+                "matches": "14",
+                "runs": "479",
+                "average": "36.84",
+                "sr": "127.39",
+                "catches": "7"
+            }
+        },
+        "Chris Gayle": {
+            "2019": {
+                "matches": "13",
+                "runs": "490",
+                "average": "40.83",
+                "sr": "153.60",
+                "catches": "0"
+            },
+            "2018": {
+                "matches": "11",
+                "runs": "368",
+                "average": "40.88",
+                "sr": "146.03",
+                "catches": "2"
+            },
+            "2017": {
+                "matches": "9",
+                "runs": "200",
+                "average": "22.22",
+                "sr": "122.69",
+                "catches": "2"
+            }
+        },
+        "Virat Kohli": {
+            "2019": {
+                "matches": "14",
+                "runs": "464",
+                "average": "33.14",
+                "sr": "141.46",
+                "catches": "5"
+            },
+            "2018": {
+                "matches": "14",
+                "runs": "530",
+                "average": "48.18",
+                "sr": "139.10",
+                "catches": "8"
+            },
+            "2017": {
+                "matches": "10",
+                "runs": "308",
+                "average": "30.80",
+                "sr": "122.22",
+                "catches": "6"
+            }
+        },
+        "Shreyas Iyer": {
+            "2019": {
+                "matches": "16",
+                "runs": "463",
+                "average": "30.86",
+                "sr": "119.94",
+                "catches": "8"
+            },
+            "2018": {
+                "matches": "14",
+                "runs": "411",
+                "average": "37.36",
+                "sr": "132.58",
+                "catches": "5"
+            },
+            "2017": {
+                "matches": "12",
+                "runs": "338",
+                "average": "33.80",
+                "sr": "139.09",
+                "catches": "3"
+            }
+        },
+        "AB de Villiers": {
+            "2019": {
+                "matches": "13",
+                "runs": "442",
+                "average": "44.20",
+                "sr": "154.00",
+                "catches": "6"
+            },
+            "2018": {
+                "matches": "12",
+                "runs": "480",
+                "average": "53.33",
+                "sr": "174.54",
+                "catches": "6"
+            },
+            "2017": {
+                "matches": "9",
+                "runs": "216",
+                "average": "27.00",
+                "sr": "132.51",
+                "catches": "6"
+            }
+        },
+        "Suryakumar Yadav": {
+            "2019": {
+                "matches": "16",
+                "runs": "424",
+                "average": "32.61",
+                "sr": "130.86",
+                "catches": "9"
+            },
+            "2018": {
+                "matches": "14",
+                "runs": "512",
+                "average": "36.57",
+                "sr": "133.33",
+                "catches": "8"
+            },
+            "2017": {
+                "matches": "10",
+                "runs": "105",
+                "average": "17.50",
+                "sr": "119.31",
+                "catches": "5"
+            }
+        },
+        "Chris Lynn": {
+            "2019": {
+                "matches": "13",
+                "runs": "405",
+                "average": "31.15",
+                "sr": "139.65",
+                "catches": "1"
+            },
+            "2018": {
+                "matches": "16",
+                "runs": "491",
+                "average": "32.73",
+                "sr": "130.23",
+                "catches": "3"
+            },
+            "2017": {
+                "matches": "7",
+                "runs": "295",
+                "average": "49.16",
+                "sr": "180.98",
+                "catches": "2"
+            }
+        },
+        "Rohit Sharma": {
+            "2019": {
+                "matches": "15",
+                "runs": "405",
+                "average": "28.92",
+                "sr": "128.57",
+                "catches": "4"
+            },
+            "2018": {
+                "matches": "14",
+                "runs": "286",
+                "average": "23.83",
+                "sr": "133.02",
+                "catches": "8"
+            },
+            "2017": {
+                "matches": "17",
+                "runs": "333",
+                "average": "23.78",
+                "sr": "121.97",
+                "catches": "10"
+            }
+        },
+        "Faf du Plessis": {
+            "2019": {
+                "matches": "12",
+                "runs": "396",
+                "average": "36.00",
+                "sr": "123.36",
+                "catches": "12"
+            },
+            "2018": {
+                "matches": "6",
+                "runs": "162",
+                "average": "32.40",
+                "sr": "125.58",
+                "catches": "1"
+            },
+            "2017": {
+                "matches": "2",
+                "runs": "8",
+                "average": "8.00",
+                "sr": "114.28",
+                "catches": "0"
+            }
+        },
+        "Ajinkya Rahane": {
+            "2019": {
+                "matches": "14",
+                "runs": "393",
+                "average": "32.75",
+                "sr": "137.89",
+                "catches": "5"
+            },
+            "2018": {
+                "matches": "15",
+                "runs": "370",
+                "average": "28.46",
+                "sr": "118.21",
+                "catches": "4"
+            },
+            "2017": {
+                "matches": "16",
+                "runs": "382",
+                "average": "25.46",
+                "sr": "118.26",
+                "catches": "7"
+            }
+        },
+        "Suresh Raina": {
+            "2019": {
+                "matches": "17",
+                "runs": "383",
+                "average": "23.93",
+                "sr": "121.97",
+                "catches": "7"
+            },
+            "2018": {
+                "matches": "15",
+                "runs": "445",
+                "average": "37.08",
+                "sr": "132.44",
+                "catches": "9"
+            },
+            "2017": {
+                "matches": "14",
+                "runs": "442",
+                "average": "40.18",
+                "sr": "143.97",
+                "catches": "4"
+            }
+        },
+        "Prithvi Shaw": {
+            "2019": {
+                "matches": "16",
+                "runs": "353",
+                "average": "22.06",
+                "sr": "133.71",
+                "catches": "2"
+            },
+            "2018": {
+                "matches": "9",
+                "runs": "245",
+                "average": "27.22",
+                "sr": "153.12",
+                "catches": "4"
+            }
+        },
+        "Manish Pandey": {
+            "2019": {
+                "matches": "12",
+                "runs": "344",
+                "average": "43.00",
+                "sr": "130.79",
+                "catches": "7"
+            },
+            "2018": {
+                "matches": "15",
+                "runs": "284",
+                "average": "25.81",
+                "sr": "115.44",
+                "catches": "9"
+            },
+            "2017": {
+                "matches": "14",
+                "runs": "396",
+                "average": "49.50",
+                "sr": "128.57",
+                "catches": "8"
+            }
+        },
+        "Nitish Rana": {
+            "2019": {
+                "matches": "14",
+                "runs": "344",
+                "average": "34.40",
+                "sr": "146.38",
+                "catches": "3"
+            },
+            "2018": {
+                "matches": "15",
+                "runs": "304",
+                "average": "23.38",
+                "sr": "131.03",
+                "catches": "2"
+            },
+            "2017": {
+                "matches": "13",
+                "runs": "333",
+                "average": "30.27",
+                "sr": "126.13",
+                "catches": "4"
+            }
+        },
+        "Sanju Samson": {
+            "2019": {
+                "matches": "12",
+                "runs": "342",
+                "average": "34.20",
+                "sr": "148.69",
+                "catches": "4"
+            },
+            "2018": {
+                "matches": "15",
+                "runs": "441",
+                "average": "31.50",
+                "sr": "137.81",
+                "catches": "5"
+            },
+            "2017": {
+                "matches": "14",
+                "runs": "386",
+                "average": "27.57",
+                "sr": "141.39",
+                "catches": "4"
+            }
+        },
+        "Mayank Agrawal": {
+            "2019": {
+                "matches": "13",
+                "runs": "332",
+                "average": "25.53",
+                "sr": "141.88",
+                "catches": "7"
+            },
+            "2018": {
+                "matches": "11",
+                "runs": "120",
+                "average": "12.00",
+                "sr": "127.65",
+                "catches": "2"
+            },
+            "2017": {
+                "matches": "3",
+                "runs": "26",
+                "average": "8.66",
+                "sr": "96.29",
+                "catches": "1"
+            }
+        },
+        "Steve Smith": {
+            "2019": {
+                "matches": "12",
+                "runs": "319",
+                "average": "39.87",
+                "sr": "116.00",
+                "catches": "3"
+            },
+            "2017": {
+                "matches": "15",
+                "runs": "472",
+                "average": "39.33",
+                "sr": "121.96",
+                "catches": "7"
+            }
+        },
+        "Shubhman Gill": {
+            "2019": {
+                "matches": "14",
+                "runs": "296",
+                "average": "32.88",
+                "sr": "124.36",
+                "catches": "7"
+            },
+            "2018": {
+                "matches": "13",
+                "runs": "203",
+                "average": "33.83",
+                "sr": "146.04",
+                "catches": "3"
+            }
+        },
+        "Ambati Rayudu": {
+            "2019": {
+                "matches": "17",
+                "runs": "282",
+                "average": "23.50",
+                "sr": "93.06",
+                "catches": "6"
+            },
+            "2018": {
+                "matches": "16",
+                "runs": "602",
+                "average": "43.00",
+                "sr": "149.75",
+                "catches": "2"
+            },
+            "2017": {
+                "matches": "5",
+                "runs": "91",
+                "average": "18.20",
+                "sr": "116.66",
+                "catches": "3"
+            }
+        },
+        "Kane Williamson": {
+            "2019": {
+                "matches": "9",
+                "runs": "156",
+                "average": "22.28",
+                "sr": "120.00",
+                "catches": "2"
+            },
+            "2018": {
+                "matches": "17",
+                "runs": "735",
+                "average": "52.50",
+                "sr": "142.44",
+                "catches": "6"
+            },
+            "2017": {
+                "matches": "7",
+                "runs": "256",
+                "average": "42.66",
+                "sr": "151.47",
+                "catches": "1"
+            }
+        }
+    },
+    "allRounders": {
+        "Andre Russell": {
+            "2019": {
+                "matches": "14",
+                "wickets": "11",
+                "bowlingAverage": "2/21",
+                "economy": "9.51",
+                "runs": "510",
+                "battingAverage": "56.66",
+                "sr": "204.81",
+                "catches": "4"
+            },
+            "2018": {
+                "matches": "16",
+                "wickets": "13",
+                "bowlingAverage": "3/31",
+                "economy": "9.38",
+                "runs": "316",
+                "battingAverage": "28.72",
+                "sr": "184.79",
+                "catches": "8"
+            }
+        },
+        "Hardik Pandya": {
+            "2019": {
+                "matches": "16",
+                "wickets": "14",
+                "bowlingAverage": "3/20",
+                "economy": "9.17",
+                "runs": "402",
+                "battingAverage": "44.66",
+                "sr": "191.42",
+                "catches": "11"
+            },
+            "2018": {
+                "matches": "13",
+                "wickets": "18",
+                "bowlingAverage": "3/24",
+                "economy": "8.92",
+                "runs": "260",
+                "battingAverage": "28.88",
+                "sr": "133.33",
+                "catches": "8"
+            },
+            "2017": {
+                "matches": "17",
+                "wickets": "6",
+                "bowlingAverage": "2/22",
+                "economy": "8.19",
+                "runs": "250",
+                "battingAverage": "35.71",
+                "sr": "156.25",
+                "catches": "12"
+            }
+        },
+        "Shane Watson": {
+            "2019": {
+                "matches": "17",
+                "wickets": "0",
+                "bowlingAverage": "0/0",
+                "economy": "-",
+                "runs": "398",
+                "battingAverage": "23.41",
+                "sr": "127.56",
+                "catches": "6"
+            },
+            "2018": {
+                "matches": "15",
+                "wickets": "6",
+                "bowlingAverage": "2/29",
+                "economy": "8.96",
+                "runs": "555",
+                "battingAverage": "39.64",
+                "sr": "154.59",
+                "catches": "3"
+            },
+            "2017": {
+                "matches": "8",
+                "wickets": "5",
+                "bowlingAverage": "1/16",
+                "economy": "9.13",
+                "runs": "71",
+                "battingAverage": "11.83",
+                "sr": "91.02",
+                "catches": "2"
+            }
+        },
+        "Moenn Alli": {
+            "2019": {
+                "matches": "11",
+                "wickets": "6",
+                "bowlingAverage": "2/18",
+                "economy": "6.76",
+                "runs": "220",
+                "battingAverage": "27.50",
+                "sr": "165.41",
+                "catches": "1"
+            },
+            "2018": {
+                "matches": "5",
+                "wickets": "3",
+                "bowlingAverage": "1/13",
+                "economy": "7.36",
+                "runs": "77",
+                "battingAverage": "19.25",
+                "sr": "167.39",
+                "catches": "2"
+            }
+        },
+        "Keiron Pollard": {
+            "2019": {
+                "matches": "16",
+                "wickets": "0",
+                "bowlingAverage": "0/0",
+                "economy": "-",
+                "runs": "279",
+                "battingAverage": "34.87",
+                "sr": "156.74",
+                "catches": "8"
+            },
+            "2018": {
+                "matches": "9",
+                "wickets": "0",
+                "bowlingAverage": "0/0",
+                "economy": "-",
+                "runs": "133",
+                "battingAverage": "19.00",
+                "sr": "133.00",
+                "catches": "4"
+            },
+            "2017": {
+                "matches": "17",
+                "wickets": "0",
+                "bowlingAverage": "0/0",
+                "economy": "16.36",
+                "runs": "385",
+                "battingAverage": "29.61",
+                "sr": "139.49",
+                "catches": "15"
+            }
+        },
+        "Krunal Pandya": {
+            "2019": {
+                "matches": "16",
+                "wickets": "12",
+                "bowlingAverage": "3/34",
+                "economy": "7.28",
+                "runs": "183",
+                "battingAverage": "16.63",
+                "sr": "122.00",
+                "catches": "5"
+            },
+            "2018": {
+                "matches": "14",
+                "wickets": "12",
+                "bowlingAverage": "3/28",
+                "economy": "7.07",
+                "runs": "228",
+                "battingAverage": "22.80",
+                "sr": "145.22",
+                "catches": "9"
+            },
+            "2017": {
+                "matches": "13",
+                "wickets": "10",
+                "bowlingAverage": "3/14",
+                "economy": "6.82",
+                "runs": "243",
+                "battingAverage": "34.71",
+                "sr": "135.75",
+                "catches": "2"
+            }
+        },
+        "Sunil Narine": {
+            "2019": {
+                "matches": "12",
+                "wickets": "10",
+                "bowlingAverage": "2/19",
+                "economy": "7.82",
+                "runs": "143",
+                "battingAverage": "17.87",
+                "sr": "166.27",
+                "catches": "0"
+            },
+            "2018": {
+                "matches": "16",
+                "wickets": "17",
+                "bowlingAverage": "3/18",
+                "economy": "7.65",
+                "runs": "357",
+                "battingAverage": "22.31",
+                "sr": "189.89",
+                "catches": "1"
+            },
+            "2017": {
+                "matches": "16",
+                "wickets": "10",
+                "bowlingAverage": "2/29",
+                "economy": "6.98",
+                "runs": "224",
+                "battingAverage": "17.23",
+                "sr": "172.30",
+                "catches": "4"
+            }
+        },
+        "Ben Stokes": {
+            "2019": {
+                "matches": "9",
+                "wickets": "6",
+                "bowlingAverage": "2/39",
+                "economy": "11.22",
+                "runs": "123",
+                "battingAverage": "20.50",
+                "sr": "124.24",
+                "catches": "3"
+            },
+            "2018": {
+                "matches": "13",
+                "wickets": "8",
+                "bowlingAverage": "3/15",
+                "economy": "8.18",
+                "runs": "196",
+                "battingAverage": "16.33",
+                "sr": "121.73",
+                "catches": "6"
+            },
+            "2017": {
+                "matches": "12",
+                "wickets": "12",
+                "bowlingAverage": "3/18",
+                "economy": "7.18",
+                "runs": "316",
+                "battingAverage": "31.60",
+                "sr": "142.98",
+                "catches": "5"
+            }
+        },
+        "Ravindra Jadeja": {
+            "2019": {
+                "matches": "16",
+                "wickets": "15",
+                "bowlingAverage": "3/9",
+                "economy": "6.35",
+                "runs": "106",
+                "battingAverage": "35.33",
+                "sr": "120.45",
+                "catches": "9"
+            },
+            "2018": {
+                "matches": "16",
+                "wickets": "11",
+                "bowlingAverage": "3/18",
+                "economy": "7.39",
+                "runs": "89",
+                "battingAverage": "17.80",
+                "sr": "120.27",
+                "catches": "11"
+            },
+            "2017": {
+                "matches": "12",
+                "wickets": "5",
+                "bowlingAverage": "2/28",
+                "economy": "9.18",
+                "runs": "158",
+                "battingAverage": "39.50",
+                "sr": "139.82",
+                "catches": "2"
+            }
+        },
+        "Dwayne Bravo": {
+            "2019": {
+                "matches": "12",
+                "wickets": "11",
+                "bowlingAverage": "3/33",
+                "economy": "8.01",
+                "runs": "80",
+                "battingAverage": "16.00",
+                "sr": "121.21",
+                "catches": "5"
+            },
+            "2018": {
+                "matches": "16",
+                "wickets": "14",
+                "bowlingAverage": "2/16",
+                "economy": "9.96",
+                "runs": "141",
+                "battingAverage": "35.25",
+                "sr": "154.94",
+                "catches": "9"
+            }
+        },
+        "Axar Patel": {
+            "2019": {
+                "matches": "14",
+                "wickets": "10",
+                "bowlingAverage": "2/22",
+                "economy": "7.13",
+                "runs": "110",
+                "battingAverage": "18.33",
+                "sr": "125.00",
+                "catches": "9"
+            },
+            "2018": {
+                "matches": "9",
+                "wickets": "3",
+                "bowlingAverage": "1/21",
+                "economy": "8.38",
+                "runs": "80",
+                "battingAverage": "13.33",
+                "sr": "115.94",
+                "catches": "2"
+            },
+            "2017": {
+                "matches": "14",
+                "wickets": "15",
+                "bowlingAverage": "3/11",
+                "economy": "7.54",
+                "runs": "227",
+                "battingAverage": "28.37",
+                "sr": "140.12",
+                "catches": "7"
+            }
+        }
+    }
+}

@@ -1,5 +1,45 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Custom things done
+
+### Branches
+
+gh-pages The build branch nothing to interfere with it
+master The main branch where the commits will be merged
+<name> The custom branches to work on
+
+### How to start
+
+Have nodejs installed on your system.
+
+Then open this directory, and to install requirements
+
+```
+npm install
+```
+
+To run the server
+
+```
+npm start
+```
+
+### What I did
+
+Installed firebase module
+
+```
+npm install firebase --save
+```
+
+To deploy the gh-pages branch, first go to the master
+
+```
+npm run deploy
+```
+
+# Defaults to read
+
 ## Available Scripts
 
 In the project directory, you can run:

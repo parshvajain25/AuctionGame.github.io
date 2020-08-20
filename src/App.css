@@ -1,4 +1,15 @@
+#root {
+  display: flex;
+  flex-flow: column;
+  flex-direction: column;
+  height: 100vh;
+}
+
 .App {
+  text-align: center;
+}
+
+#loading {
   text-align: center;
 }
 
@@ -6,6 +17,25 @@ header {
   font-size: 32px;
 }
 
-.App-header{
-  color: aqua;
+
+#main-content {
+  flex: 1 1 auto;
+  color: rgba(24, 180, 241, 0.815);
+  background: rgba(0, 255, 255, 0.753);
+  overflow: auto;
 }
+
+.center {
+  text-align: center;
+}
+
+.gallery-item {
+  width: 100%;
+  margin: 20px 0;
+  text-align: center;
+}
+
+#prediction-gallery {
+  margin-bottom: 50px;
+}
+
