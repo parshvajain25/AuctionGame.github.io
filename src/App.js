@@ -10,8 +10,7 @@ import Tab from '@material-ui/core/Tab';
 import Home from './components/home';
 import Player from './components/players';
 import Teams from './components/teams';
-// import Quiz from '.components/quiz';
-
+import Quiz from './components/quiz';
 
 class App extends React.Component {
   constructor() {
@@ -20,7 +19,7 @@ class App extends React.Component {
     // setting the inital state of the App
     this.state = {
       tabValue: 0,
-      round: '...'
+      round: '...',
     };
 
     // Don't forget to bind the functions to classes
@@ -58,25 +57,16 @@ class App extends React.Component {
     );
   }
 
-
   render() {
-
     // First check for the Quiz Round from the firebase
     const round = this.state.round;
-    
+
     // Check for the quiz round!
     if (round === '...') {
-      return (
-        <h1 id="loading">Loading ...</h1>
-      )
+      return <h1 id="loading">Loading ...</h1>;
     } else if (round === 'quiz') {
-      return (
-        <div id="quiz">
-          <h1>Please Wait Quiz will be started soon</h1>
-        </div>
-      )
+      return <Quiz />;
     } else {
-
       // The main content and routes everything
       return (
         <Router>
@@ -92,7 +82,7 @@ class App extends React.Component {
               <Tab label="Teams" to="/teams" component={Link} />
             </Tabs>
           </AppBar>
-  
+
           <div id="main-content">
             <Switch>
               <Route path="/players">
@@ -109,7 +99,7 @@ class App extends React.Component {
         </Router>
       );
     }
-  }     // End of render
+  } // End of render
 }
 
 export default App;
