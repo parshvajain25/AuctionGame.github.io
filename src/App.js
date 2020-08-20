@@ -2,6 +2,10 @@ import React from 'react';
 import './App.css';
 import { BrowserRouter as Router, Link, Route, Switch } from 'react-router-dom';
 
+import AppBar from '@material-ui/core/AppBar';
+import Tabs from '@material-ui/core/Tabs';
+import Tab from '@material-ui/core/Tab';
+
 import Admin from './components/admin';
 import Home from './components/home';
 import Player from './components/players';
@@ -12,7 +16,11 @@ class App extends React.Component {
     super();
     this.state = {
       speed: 10,
+      tabValue: 0,
     };
+
+    // Don't forget to bind the functions to classes
+    this.handleChange = this.handleChange.bind(this);
   }
 
   componentDidMount() {
@@ -21,22 +29,28 @@ class App extends React.Component {
     });
   }
 
+  handleChange(event, newValue) {
+    this.setState({
+      tabValue: newValue,
+    });
+    console.log('Handle Change', newValue);
+  }
+
   render() {
     return (
       <Router>
-        <div id="nav-bar">
-          <ul>
-            <li>
-              <Link to="/">Home</Link>
-            </li>
-            <li>
-              <Link to="/players">Players</Link>
-            </li>
-            <li>
-              <Link to="/rules">Rules</Link>
-            </li>
-          </ul>
-        </div>
+        <AppBar position="static" color="transparent" id="nav-bar">
+          <Tabs
+            variant="fullWidth"
+            aria-label="Navigation"
+            value={this.state.tabValue}
+            onChange={this.handleChange}
+          >
+            <Tab label="Home" to="/" component={Link} />
+            <Tab label="Players" to="/players" component={Link} />
+            <Tab label="Rules" to="/rules" component={Link} />
+          </Tabs>
+        </AppBar>
 
         <div id="main-content">
           <Switch>
@@ -46,11 +60,11 @@ class App extends React.Component {
             <Route path="/rules">
               <Rules />
             </Route>
-            <Route path="/">
-              <Home />
-            </Route>
             <Route path="/admin">
               <Admin />
+            </Route>
+            <Route path="/">
+              <Home />
             </Route>
           </Switch>
         </div>
