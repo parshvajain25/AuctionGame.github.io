@@ -3,10 +3,9 @@ import React from 'react';
 import Predict from './predict';
 
 class Home extends React.Component {
-
   render() {
     const round = this.props.round;
-    
+
     if (round === 'prediction') {
       return <Predict />;
     } else {
