@@ -1,7 +1,7 @@
 import React from 'react';
 
-function Rules() {
+function Teams() {
   return <h1>Hello Rules Page</h1>;
 }
 
-export default Rules;
+export default Teams;
